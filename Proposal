@@ -1,0 +1,11 @@
+My final project will consist of a car game that will last 40 seconds long. The game will be one player only and the user is to crash all 
+of the barrels before the time runs out. When the user comes in contact with the barrels, the barrels will disappear. If the time runs out,
+the screen will show the words “Sorry, Time is Up”. If the user crashes all of the barrels before the time runs out, the screen will show 
+“VICTORY, YOU WIN!!!”. A special feature that the game has is the choice of cars in which you can choose what car to play with. You choose
+a car with the keys 1, 2, 3, and 4. Each of those will give the user a different car such as 3 different convertibles and an ambulance. 
+This game does not have any rules in specific except for not hacking the game in order to win. My ultimate goal for this game is to have a 
+game that kind of causes anxiety, since you will be able to see that you are running out of time, but fun in a way that you will come back 
+to play it. The different ways I am going to implement what I learned this year is an array for all of the barrel’s coordinates. Many 
+conditionals for the four possible choices of cars, that is the ambulance, and three other convertible cars, and what words will show up 
+depending on the events that occur during the game. I will use for loops and while loops so that the different words are popped up on the 
+screen. 
