@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=convertible
+comment0.text=\r\n\ Julian\ Martin\r\n\ 05/21/18\r\n\ Final\ Project\ Game\r\n
+comment1.params=speed\ turnRadius
+comment1.target=convertible(int,\ int)
+comment2.params=
+comment2.target=int\ getSpeed()
+comment3.params=
+comment3.target=int\ getTurnRadius()
+comment4.params=
+comment4.target=double\ giveTime()
+numComments=5
